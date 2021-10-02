@@ -3,9 +3,9 @@
 
 [![Jun-Hyeok's stats](https://github-readme-stats.vercel.app/api?username=jun-hyeok&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true)](https://github.com/jun-hyeok?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-hyeok&layout=compact&langs_count=6&card_width=445)](https://github.com/jun-hyeok?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-hyeok&layout=compact&langs_count=6&card_width=445&theme=vue-dark)](https://github.com/jun-hyeok?tab=repositories)
 
-[![Jun-Hyeok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junhyeokpark&langs_count=3)](https://wakatime.com/@junhyeokpark)
+[![Jun-Hyeok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junhyeokpark&langs_count=3&theme=vue-dark)](https://wakatime.com/@junhyeokpark)
 
 <!--
 **jun-hyeok/jun-hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
